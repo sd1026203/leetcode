@@ -1,4 +1,4 @@
-package leetcode.zigzagconversion;
+package leetcode._6_zigzagconversion;
 
 import org.junit.Test;
 

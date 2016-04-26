@@ -1,4 +1,4 @@
-package leetcode.zigzagconversion;
+package leetcode._6_zigzagconversion;
 
 /**
  * Created by sd102 on 2016-04-21.

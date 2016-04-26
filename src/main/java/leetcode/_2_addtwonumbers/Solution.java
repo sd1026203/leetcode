@@ -1,4 +1,4 @@
-package leetcode.addtwonumbers;
+package leetcode._2_addtwonumbers;
 
 /**
  * Created by sd102 on 2016-04-20.

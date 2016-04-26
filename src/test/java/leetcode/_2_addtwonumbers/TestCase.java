@@ -1,4 +1,4 @@
-package leetcode.addtwonumbers;
+package leetcode._2_addtwonumbers;
 
 import org.junit.Test;
 
